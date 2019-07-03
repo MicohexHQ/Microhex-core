@@ -1,1 +1,1 @@
-# microhex-core
+# Microhex-core
